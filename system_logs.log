@@ -1,0 +1,107 @@
+2025-06-05 22:21:28,388 - INFO - Listed processes via GUI
+2025-06-05 22:21:43,111 - INFO - Started monitoring
+2025-06-05 22:22:25,595 - INFO - Stopped monitoring
+2025-06-05 22:22:26,698 - INFO - Started monitoring
+2025-06-05 22:23:07,057 - INFO - Killed process via GUI: chrome.exe (PID: 5056)
+2025-06-05 22:24:16,765 - WARNING - Failed to kill process with PID: 5056
+2025-06-05 22:24:19,697 - INFO - Listed processes via GUI
+2025-06-05 22:25:14,584 - INFO - Listed processes via GUI
+2025-06-05 22:25:15,173 - INFO - Listed processes via GUI
+2025-06-05 22:25:40,668 - INFO - Listed processes via GUI
+2025-06-05 22:30:00,660 - INFO - Started monitoring
+2025-06-05 22:31:03,192 - INFO - Listed processes via GUI
+2025-06-05 22:33:48,254 - INFO - Killed process via GUI: Telegram.exe (PID: 7884)
+2025-06-05 22:33:52,455 - INFO - Listed processes via GUI
+2025-06-05 23:38:12,404 - Terminated process Telegram.exe (PID: 7868)
+2025-06-05 23:38:31,674 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,676 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,678 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,680 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,682 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,684 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,686 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,687 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,689 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,691 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,697 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,700 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,701 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,703 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,705 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,708 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,716 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,719 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,721 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,724 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,728 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,731 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,733 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,735 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,745 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,762 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,776 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,786 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,796 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,808 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,819 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,832 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,843 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,857 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,867 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,876 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,885 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,894 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,904 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,914 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,927 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,941 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,953 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,970 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:31,982 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,002 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,015 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,027 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,036 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,050 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,062 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,075 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,096 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,119 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,136 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,152 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,173 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,186 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,202 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,214 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,225 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,234 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,242 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,253 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,269 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,279 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,290 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,301 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,313 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,325 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,336 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,347 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,355 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,364 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,376 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,390 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,400 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,416 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,433 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,448 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,461 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,474 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,490 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,503 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,515 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,527 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,543 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,560 - Blocked app terminated: chrome.exe
+2025-06-05 23:38:32,574 - Blocked app terminated: chrome.exe
+2025-06-05 23:40:00,783 - INFO - Listed processes via GUI
+2025-06-05 23:40:49,278 - INFO - Listed processes via GUI
+2025-06-06 14:16:21,709 - Executed on 192.168.1.5: ipconfig

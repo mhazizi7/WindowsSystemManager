@@ -1,0 +1,13 @@
+[2025-06-06 14:16:21.711011] ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet0:
+
+   Connection-specific DNS Suffix  . : 2750U
+   Link-local IPv6 Address . . . . . : fe80::c8:c056:159a:d4e6%4
+   IPv4 Address. . . . . . . . . . . : 192.168.1.5
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.1.1
+
